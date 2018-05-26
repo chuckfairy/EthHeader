@@ -1,0 +1,26 @@
+/**
+ * Basic EthHeader layout
+ */
+.eth-header p {
+    margin: 0;
+}
+
+.network-version-1 {
+    color: #00FF00;
+}
+
+.network-version-2 {
+    color: #FF0000;
+}
+
+.network-version-3 {
+    color: #FF0000;
+}
+
+.network-version-4 {
+    color: #FFFF00;
+}
+
+.network-version-42 {
+    color: #AA00AA;
+}
